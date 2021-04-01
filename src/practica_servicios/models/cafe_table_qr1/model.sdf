@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <model name="cafe_table_qr1">
+    <static>true</static>
+    <link name="link">
+      <collision name="surface">
+        <pose>0 0 0.96 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>2.0 2.0 0.08</size>
+          </box>
+        </geometry>
+      </collision>
+
+      <collision name="column">
+        <pose>0 0 0.46 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.48 0.48 0.92</size>
+          </box>
+        </geometry>
+      </collision>
+
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>model://cafe_table_qr1/meshes/cafe_table_qr1.dae</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+</sdf>

@@ -1,0 +1,3 @@
+[ 33%] [32m[1mLinking CXX shared library /home/adrii/tiago_public_ws/devel/.private/backward_ros/lib/libbackward.so[0m
+[ 66%] Built target backward_object
+[100%] Built target backward

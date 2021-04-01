@@ -1,0 +1,8 @@
+prefix=/home/adrii/tiago_public_ws/install
+
+Name: geograsp
+Description: Description of geograsp
+Version: 0.3.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lGeoGrasp
+Requires: pcl_conversions pcl_ros roscpp sensor_msgs

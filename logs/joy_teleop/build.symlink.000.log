@@ -1,0 +1,4 @@
+Symlinking /home/adrii/tiago_public_ws/devel/lib/pkgconfig/joy_teleop.pc
+Symlinking /home/adrii/tiago_public_ws/devel/lib/joy_teleop/incrementer_server
+Symlinking /home/adrii/tiago_public_ws/devel/share/joy_teleop/cmake/joy_teleopConfig.cmake
+Symlinking /home/adrii/tiago_public_ws/devel/share/joy_teleop/cmake/joy_teleopConfig-version.cmake

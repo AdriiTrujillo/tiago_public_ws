@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+
+    <include file="$(find tiago_moveit_tutorial)/launch/octomap_tiago.launch" />
+
+    <!-- <node name="foo_throttler" type="throttle" pkg="topic_tools" args="messages /xtion/depth_registered/points 2  /throttle_filtering_points/filtered_points" />
+
+    <rosparam command="load" file="$(find tiago_moveit_tutorial)/config/tiago_octomap_motions.yaml" /> -->
+
+</launch>

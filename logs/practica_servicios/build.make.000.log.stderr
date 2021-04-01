@@ -1,0 +1,5 @@
+[01m[K/home/adrii/tiago_public_ws/src/practica_servicios/src/geograsp_srv.cpp:6:41:[m[K [01;31m[Kfatal error: [m[Kpractica_servicios/geograsp.h: No existe el archivo o el directorio
+compilation terminated.
+make[2]: *** [CMakeFiles/geograsp_server.dir/src/geograsp_srv.cpp.o] Error 1
+make[1]: *** [CMakeFiles/geograsp_server.dir/all] Error 2
+make: *** [all] Error 2

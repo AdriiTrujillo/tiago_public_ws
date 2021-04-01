@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+
+    <arg name="mapping" default="false" />
+    <arg name="octomap" default="false" />
+
+    <include file="$(find practica_servicios)/launch/tiago_waiter.launch"/>
+
+    <group if="$(arg mapping)">
+      <include file="$(find practica_servicios)/launch/waiter_mapping.launch"/>
+    </group>
+
+    <group unless="$(arg mapping)">
+      <include file="$(find practica_servicios)/launch/waiter_navigation.launch"/>
+    </group>    
+    
+    <group if="$(arg octomap)">
+      <include file="$(find practica_servicios)/launch/octomap.launch"/>
+    </group>
+
+
+</launch>

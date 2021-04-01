@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target geograsp_server[0m
+[  5%] [32mBuilding CXX object CMakeFiles/geograsp_server.dir/src/geograsp_srv.cpp.o[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  5%] Built target actionlib_msgs_generate_messages_cpp
+[01m[K/home/adrii/tiago_public_ws/src/practica_servicios/src/geograsp_srv.cpp:6:41:[m[K [01;31m[Kfatal error: [m[Kpractica_servicios/geograsp.h: No existe el archivo o el directorio
+compilation terminated.
+CMakeFiles/geograsp_server.dir/build.make:62: fallo en las instrucciones para el objetivo 'CMakeFiles/geograsp_server.dir/src/geograsp_srv.cpp.o'
+CMakeFiles/Makefile2:67: fallo en las instrucciones para el objetivo 'CMakeFiles/geograsp_server.dir/all'
+make[2]: *** [CMakeFiles/geograsp_server.dir/src/geograsp_srv.cpp.o] Error 1
+make[1]: *** [CMakeFiles/geograsp_server.dir/all] Error 2
+make: *** [all] Error 2
+Makefile:127: fallo en las instrucciones para el objetivo 'all'

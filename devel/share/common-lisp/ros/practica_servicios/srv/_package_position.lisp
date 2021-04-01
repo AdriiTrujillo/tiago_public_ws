@@ -1,0 +1,1 @@
+/home/adrii/tiago_public_ws/devel/.private/practica_servicios/share/common-lisp/ros/practica_servicios/srv/_package_position.lisp

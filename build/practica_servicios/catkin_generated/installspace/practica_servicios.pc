@@ -1,0 +1,8 @@
+prefix=/home/adrii/tiago_public_ws/install
+
+Name: practica_servicios
+Description: Description of practica_servicios
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lGeoGrasp
+Requires: pcl_conversions pcl_ros roscpp sensor_msgs

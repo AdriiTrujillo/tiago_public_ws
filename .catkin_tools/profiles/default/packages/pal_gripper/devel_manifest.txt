@@ -1,0 +1,5 @@
+pal_gripper/pal_gripper
+/home/adrii/tiago_public_ws/devel/.private/pal_gripper/cmake.lock /home/adrii/tiago_public_ws/devel/./cmake.lock
+/home/adrii/tiago_public_ws/devel/.private/pal_gripper/lib/pkgconfig/pal_gripper.pc /home/adrii/tiago_public_ws/devel/lib/pkgconfig/pal_gripper.pc
+/home/adrii/tiago_public_ws/devel/.private/pal_gripper/share/pal_gripper/cmake/pal_gripperConfig-version.cmake /home/adrii/tiago_public_ws/devel/share/pal_gripper/cmake/pal_gripperConfig-version.cmake
+/home/adrii/tiago_public_ws/devel/.private/pal_gripper/share/pal_gripper/cmake/pal_gripperConfig.cmake /home/adrii/tiago_public_ws/devel/share/pal_gripper/cmake/pal_gripperConfig.cmake

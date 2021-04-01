@@ -1,0 +1,70 @@
+[35m[1mScanning dependencies of target _practica_servicios_generate_messages_check_deps_position[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target _practica_servicios_generate_messages_check_deps_geograsp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  5%] [32mBuilding CXX object CMakeFiles/geograsp_server.dir/src/geograsp_srv.cpp.o[0m
+[  5%] Built target geometry_msgs_generate_messages_py
+[  5%] Built target _practica_servicios_generate_messages_check_deps_geograsp
+[  5%] Built target _practica_servicios_generate_messages_check_deps_position
+[35m[1mScanning dependencies of target practica_servicios_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target practica_servicios_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target practica_servicios_generate_messages_eus[0m
+[35m[1mScanning dependencies of target practica_servicios_generate_messages_py[0m
+[35m[1mScanning dependencies of target practica_servicios_generate_messages_nodejs[0m
+[ 16%] [34m[1mGenerating EusLisp code from practica_servicios/position.srv[0m
+[ 16%] [34m[1mGenerating Lisp code from practica_servicios/geograsp.srv[0m
+[ 22%] [34m[1mGenerating Lisp code from practica_servicios/position.srv[0m
+[ 33%] [34m[1mGenerating C++ code from practica_servicios/geograsp.srv[0m
+[ 33%] [34m[1mGenerating C++ code from practica_servicios/position.srv[0m
+[ 38%] [34m[1mGenerating EusLisp code from practica_servicios/geograsp.srv[0m
+[ 44%] [34m[1mGenerating EusLisp manifest code for practica_servicios[0m
+[ 50%] [34m[1mGenerating Python code from SRV practica_servicios/position[0m
+[ 55%] [34m[1mGenerating Javascript code from practica_servicios/position.srv[0m
+[ 61%] [34m[1mGenerating Javascript code from practica_servicios/geograsp.srv[0m
+[ 66%] [34m[1mGenerating Python code from SRV practica_servicios/geograsp[0m
+[ 66%] Built target practica_servicios_generate_messages_lisp
+[ 66%] Built target practica_servicios_generate_messages_nodejs
+[ 72%] [34m[1mGenerating Python srv __init__.py for practica_servicios[0m
+[ 72%] Built target practica_servicios_generate_messages_cpp
+[35m[1mScanning dependencies of target practica_servicios_gencpp[0m
+[ 72%] Built target practica_servicios_gencpp
+[ 72%] Built target practica_servicios_generate_messages_py
+[35m[1mScanning dependencies of target move_arm_server[0m
+[35m[1mScanning dependencies of target move_arm_client[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/move_arm_client.dir/src/move_arm_client.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/move_arm_server.dir/src/move_arm_server.cpp.o[0m
+[ 83%] Built target practica_servicios_generate_messages_eus
+[35m[1mScanning dependencies of target practica_servicios_generate_messages[0m
+[ 83%] Built target practica_servicios_generate_messages
+[ 88%] [32m[1mLinking CXX executable /home/adrii/tiago_public_ws/devel/.private/practica_servicios/lib/practica_servicios/move_arm_client[0m
+[ 88%] Built target move_arm_client
+[ 94%] [32m[1mLinking CXX executable /home/adrii/tiago_public_ws/devel/.private/practica_servicios/lib/practica_servicios/move_arm_server[0m
+[ 94%] Built target move_arm_server
+[100%] [32m[1mLinking CXX executable /home/adrii/tiago_public_ws/devel/.private/practica_servicios/lib/practica_servicios/geograsp_server[0m
+[100%] Built target geograsp_server

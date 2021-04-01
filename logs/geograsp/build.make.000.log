@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target GeoGrasp[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/GeoGrasp.dir/lib/geograsp/GeoGrasp.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/adrii/tiago_public_ws/devel/.private/geograsp/lib/libGeoGrasp.so[0m
+[ 50%] Built target GeoGrasp
+[35m[1mScanning dependencies of target cloud_processor[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/cloud_processor.dir/src/cloud_processor.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/adrii/tiago_public_ws/devel/.private/geograsp/lib/geograsp/cloud_processor[0m
+[100%] Built target cloud_processor

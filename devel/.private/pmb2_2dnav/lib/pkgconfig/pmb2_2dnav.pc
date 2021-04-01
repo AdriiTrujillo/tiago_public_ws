@@ -1,0 +1,8 @@
+prefix=/home/adrii/tiago_public_ws/devel/.private/pmb2_2dnav
+
+Name: pmb2_2dnav
+Description: Description of pmb2_2dnav
+Version: 2.0.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

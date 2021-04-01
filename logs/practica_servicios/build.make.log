@@ -1,0 +1,27 @@
+[ 11%] Built target geograsp_server
+[ 11%] Built target actionlib_msgs_generate_messages_cpp
+[ 11%] Built target _practica_servicios_generate_messages_check_deps_position
+[ 11%] Built target _practica_servicios_generate_messages_check_deps_geograsp
+[ 11%] Built target geometry_msgs_generate_messages_cpp
+[ 11%] Built target std_msgs_generate_messages_cpp
+[ 11%] Built target actionlib_msgs_generate_messages_eus
+[ 11%] Built target geometry_msgs_generate_messages_eus
+[ 11%] Built target std_msgs_generate_messages_eus
+[ 11%] Built target actionlib_msgs_generate_messages_lisp
+[ 11%] Built target std_msgs_generate_messages_lisp
+[ 11%] Built target geometry_msgs_generate_messages_lisp
+[ 11%] Built target actionlib_msgs_generate_messages_py
+[ 11%] Built target std_msgs_generate_messages_py
+[ 11%] Built target actionlib_msgs_generate_messages_nodejs
+[ 11%] Built target geometry_msgs_generate_messages_py
+[ 11%] Built target std_msgs_generate_messages_nodejs
+[ 11%] Built target geometry_msgs_generate_messages_nodejs
+[ 27%] Built target practica_servicios_generate_messages_eus
+[ 38%] Built target practica_servicios_generate_messages_cpp
+[ 50%] Built target practica_servicios_generate_messages_lisp
+[ 66%] Built target practica_servicios_generate_messages_py
+[ 77%] Built target practica_servicios_generate_messages_nodejs
+[ 77%] Built target practica_servicios_gencpp
+[ 77%] Built target practica_servicios_generate_messages
+[ 88%] Built target move_arm_client
+[100%] Built target move_arm_server
